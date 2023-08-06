@@ -25,6 +25,26 @@ could be written as:
 > docker run -dp 80:80 docker/getting-started
 
 
+The Docker Dashboard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
