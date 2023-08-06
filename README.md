@@ -38,7 +38,7 @@ the dashboard now, you will see this tutorial running! The container name ( joll
 below) is a randomly created name. So, you'll most likely have a diáerent name.
 
 
-
+What is a container?
 
 
 
