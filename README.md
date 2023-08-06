@@ -19,6 +19,8 @@ You'll notice a few Öags being used. Here's some more info on them:
 
 Pro tip
 
+You can combine single character Öags to shorten the full command. As an example, the command above
+could be written as:
 
 
 
