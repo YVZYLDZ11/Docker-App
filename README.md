@@ -17,7 +17,7 @@ You'll notice a few Öags being used. Here's some more info on them:
 
 > docker/getting-started - the image to use
 
-
+Pro tip
 
 
 
