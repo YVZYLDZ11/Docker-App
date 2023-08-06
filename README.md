@@ -22,7 +22,7 @@ Pro tip
 You can combine single character Öags to shorten the full command. As an example, the command above
 could be written as:
 
-
+> docker run -dp 80:80 docker/getting-started
 
 
 
