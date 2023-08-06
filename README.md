@@ -33,7 +33,7 @@ quick view of the containers running on your machine.
 It provides you access to container logs, lets you get a shell inside the container, and allows you to easily manage container
 lifecycle (stop, remove, etc.)
 
-
+To access the dashboard, follow the instructions in the Docker Desktop manual.
 
 
 
