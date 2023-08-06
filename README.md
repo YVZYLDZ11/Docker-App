@@ -30,8 +30,7 @@ The Docker Dashboard
 Before going any further, we want to highlight the Docker Dashboard, which gives you a
 quick view of the containers running on your machine. 
 
-It provides you access to container
-logs, lets you get a shell inside the container, and allows you to easily manage container
+It provides you access to container logs, lets you get a shell inside the container, and allows you to easily manage container
 lifecycle (stop, remove, etc.)
 
 
