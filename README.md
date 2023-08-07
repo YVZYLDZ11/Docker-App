@@ -40,6 +40,9 @@ below) is a randomly created name. So, you'll most likely have a diáerent name.
 
 What is a container?
 
+Now that you've successfully run a container, let's ask ourselves what is a container? Simply
+put, a container is another process on your machine that has been isolated from all other
+processes on the host machine.
 
 
 
