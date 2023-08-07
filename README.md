@@ -46,7 +46,7 @@ processes on the host machine. That isolation leverages kernel namespaces and cg
 features that have been in Linux for a long time. Docker has worked to make these
 capabilities approachable and easy to use.
 
-
+What is a container image?
 
 
 
