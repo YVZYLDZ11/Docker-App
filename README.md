@@ -42,7 +42,9 @@ What is a container?
 
 Now that you've successfully run a container, let's ask ourselves what is a container? Simply
 put, a container is another process on your machine that has been isolated from all other
-processes on the host machine.
+processes on the host machine. That isolation leverages kernel namespaces and cgroups,
+features that have been in Linux for a long time. Docker has worked to make these
+capabilities approachable and easy to use.
 
 
 
