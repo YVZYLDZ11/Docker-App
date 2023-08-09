@@ -48,7 +48,8 @@ capabilities approachable and easy to use.
 
 What is a container image?
 
-
+When running a container, it uses an isolated Õlesystem. This custom Õlesystem is provided
+by a container image.
 
 
 
