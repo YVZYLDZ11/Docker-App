@@ -62,7 +62,9 @@ more.
 
 Info
 
-
+If you're familiar with chroot , think of a container as an extended version of chroot . The Õlesystem is simply
+coming from the image whereas a container adds additional isolation that is not available when simply using
+chroot.
 
 
 
