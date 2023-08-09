@@ -60,6 +60,8 @@ We'll dive deeper into images later on, covering topics such as layering, best p
 more.
 
 
+Info
+
 
 
 
