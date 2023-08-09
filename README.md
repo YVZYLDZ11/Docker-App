@@ -56,7 +56,8 @@ everything needed to run the application - all dependencies, conÕguration, scri
 etc. The image also contains other conÕguration for the container, such as environment
 variables, a default command to run, and other metadata.
 
-
+We'll dive deeper into images later on, covering topics such as layering, best practices, and
+more.
 
 
 
