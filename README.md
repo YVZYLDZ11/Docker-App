@@ -4,7 +4,7 @@ Getting Started
 
 The command you just ran
 
-Congratulations! You have started the container for this tutorial! Let's Õrst explain the
+Congratulations! You have started the container for this tutorial! Let's first explain the
 command that you just ran. In case you forgot, here's the command:
 
 > docker run -d -p 80:80 docker/getting-started
@@ -47,6 +47,7 @@ features that have been in Linux for a long time. Docker has worked to make thes
 capabilities approachable and easy to use.
 
 What is a container image?
+
 
 
 
